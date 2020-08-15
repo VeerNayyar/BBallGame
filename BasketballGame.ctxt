@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BasketballGame
+comment1.params=
+comment1.target=java.lang.String\ getTeamName()
+comment2.params=team
+comment2.target=void\ setTeamName(java.lang.String)
+comment3.params=
+comment3.target=void\ onePoint()
+comment4.params=
+comment4.target=void\ twoPoints()
+comment5.params=
+comment5.target=void\ threePoints()
+comment6.params=
+comment6.target=void\ gameFinished()
+comment7.params=
+comment7.target=int\ getScore()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
